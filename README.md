@@ -1,1 +1,1 @@
-https://nest-js-weather.vercel.app/
+https://nest-js-weather-a95khuy8d-nastyazhilko.vercel.app/
